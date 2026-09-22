@@ -15,7 +15,7 @@ const CONFIG = {
   // Passo 5: Cole os valores abaixo
   googleApiKey: "AIzaSyAeoVhtqgNrcSuA4gsyCMq7nQzBMtezves",
   calendarId: "a04cdfc5f361d180a909c930042a0eb9376e61ccd977f104449088a813608cd9@group.calendar.google.com", // ex: seuemail@gmail.com ou ID da agenda
-  appsScriptUrl: "https://script.google.com/macros/s/AKfycbymyARrpgzUhRdFoq0cS94O75Jh768MOgGi0y2xQbZiielFetzI5ZZAvXusZUe_F4j6/exec",
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbzNIC5dEU6a46LnqSFDa3b8PyR-3H-WL_WZaMKXOibJg1Ts4671oDQGcYehZ_JGUkZQ/exec",
   // --- JANELAS DE HORÁRIO ---
   // Formato: { diaSemana: [[horaInicio, horaFim], ...] }
   // 0 = Domingo, 1 = Segunda, ..., 6 = Sábado
