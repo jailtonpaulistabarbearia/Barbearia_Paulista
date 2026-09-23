@@ -5,7 +5,7 @@
 const CONFIG = {
   // --- NOME DA BARBEARIA ---
   barbershopName: "Barbearia Paulista",
-  barbershopPhone: "554791136576", // número com DDI+DDD para o link do WhatsApp
+  barbershopPhone: "554797091244", // número com DDI+DDD para o link do WhatsApp
 
   // --- GOOGLE CALENDAR API ---
   // Passo 1: Acesse https://console.cloud.google.com
